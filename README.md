@@ -21,7 +21,7 @@ This online store uses all the latest frameworks and libraries
 <br><br />
 -->
 
-1. **Next JS** - it is a latest and widely used framework built on top of react JS. Next js offers some great features like SSR, APIs, ISR etc.
+1. **Next JS** - this framework is built on top of react JS. Next js offers some great features like SSR, APIs, ISR etc.
 2. **Next Auth** - for google authentication management.
 3. **Chakra UI** - for easy, modern, responsive, functional UI components
 
@@ -38,7 +38,7 @@ This online store uses all the latest frameworks and libraries
 
 #### Database
 
-1. Postgres SQL - this project uses Postgrest SQL database instead of Strapi's default SQLite database.
+1. **Postgres SQL** - this project uses Postgrest SQL database instead of Strapi's default SQLite database.
   
 ## Project Features
 
@@ -53,7 +53,7 @@ This project is an online store and has a good amount a good features that real 
 7. Clearing the locked stocks in case of order failure every 10 mins or on checkout expiry
 8. Support system with threads, managed from strapi. User can re-open tickets if they are not satisfied with the asnwer
 9. Fully SSR dynamic pages which helps in SEO
-10. Fraud protection by banning the user for making new order until there dispute on delivered order is resolved
+10. Fraud protection by stopping the user from making new order until thier dispute on delivered order is resolved
     
     and much more..
 
